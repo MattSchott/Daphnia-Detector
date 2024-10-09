@@ -1,4 +1,8 @@
 # Daphnia-Detector  
-Please find the Daphnia Detectors homestill here:  
-https://github.com/Fipsii/DaphniaDetector    
-To be moved soon
+
+1.Install Docker https://docs.docker.com/get-started/get-docker/
+
+2. Pull Daphnia-Detector Docker container https://hub.docker.com/repository/docker/fipsik/daphniadetector/general
+
+3. Follow manual https://github.com/Fipsii/DaphniaDetector/tree/main/Docker
+
